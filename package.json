@@ -1,0 +1,23 @@
+{
+  "name": "everbloom-frontend",
+  "version": "1.0.0",
+  "description": "EVERBLOOM - Front-end en React (GA7-220501096-AA4-EV03)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "Sara Julieth Villarreal Ortiz",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "vite": "^5.4.21"
+  },
+  "private": true,
+  "type": "module"
+}
